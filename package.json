@@ -1,0 +1,15 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "Starter repository for Code the Dream Node Final Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "John McGarvey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
